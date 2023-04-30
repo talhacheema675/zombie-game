@@ -1,9 +1,12 @@
 {
-  "name": "zombie-game",
+  "name": "qtr1-zombie-assignment",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
+  "bin": {
+    "qtr1-zombie-assignment": "game.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
